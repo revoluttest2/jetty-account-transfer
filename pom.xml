@@ -1,12 +1,9 @@
 <project>
-    <parent>
-        <artifactId>jetty</artifactId>
-        <groupId>io.github.vort2014</groupId>
-        <version>1.0.0-SNAPSHOT</version>
-    </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>jetty-account-transfer</artifactId>
+    <groupId>com.revolut</groupId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <properties>
         <!-- for maven-compiler-plugin -->
